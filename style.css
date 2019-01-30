@@ -1,0 +1,13 @@
+.h86o{height: 860px;}
+.h3oo{height: 300px;}
+.h5o{height: 50px;}
+.h93o{height: 930px;}
+.h38{height: 38px;}
+.h45o{height: 450px;}
+.h225{height: 225px;}
+body{background-color: #000000}
+.bg_dark_gray{background-color: #424242}
+.bg_black{background-color: #000000}
+.image-cover{top: 0; right: 0; bottom: 0; left: 0; background-position: top; background-size: cover;}
+.hoverscale:hover{transform: scale(1.1); z-index: 1; transition: 0.5s;}
+.border-black {border-style: solid; border-color: #000000;}
